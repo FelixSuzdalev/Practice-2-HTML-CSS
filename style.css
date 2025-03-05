@@ -1,0 +1,57 @@
+
+body {
+  width: 70%;
+  margin: 0 auto;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Monserrate', sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+p {
+	font-family: 'Monserrate', sans-serif;
+	margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+h1 {
+  font-size: 32px;
+}
+
+
+table {
+  font-family: 'Monserrate', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+figcaption {
+  font-family: 'Monserrate', sans-serif;
+  font-style: italic;
+  text-align: center;
+  margin-top: 10px;
+}
+
+img {
+  display: block;   
+  max-width: 300px; 
+}
+
+figure {
+  float: right;  
+  margin-left: 15px;  
+  margin-bottom: 15px; 
+}
+
+
+
